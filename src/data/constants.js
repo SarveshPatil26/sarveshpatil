@@ -13,7 +13,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SarveshPatil26",
     resume:
-      "https://drive.google.com/file/d/1730P_X9GoDmChwjlnVzZ7ouk1yjTUuCN/view?usp=share_link",
+      "https://drive.google.com/file/d/1VPUUl8nGpkVh8qW1dtmc7h0puVDRsyFZ/view?usp=share_link",
     linkedin: "https://in.linkedin.com/in/sarvesh-patil-9aa026259",
     insta: "https://www.instagram.com/_sarvesh26_/?__d=1%2F",
     facebook: "",
@@ -182,7 +182,7 @@ export const Bio = {
       role: "Software Developer",
       company: "Bosleo Technologies Pvt Ltd",
       date: "Jan 2025 - Present",
-      desc: "Executed manual/Automation testing for mobile and web applications helping in close collaboration with cross-functional teams, Wrote user stories and acceptance criteria. Handled  deployment workflows,requirement gathering sessions, DevOps Actions, Excel, Figma (basic), SQL",
+      desc: "Built and optimized iOS modules for ALEX (healthcare services) and Acurovet(veterinary care), improving app responsiveness by 35%.Integrated REST APIs, Firebase, and SQL-backed data handling, ensuring seamless real-time updates across workflows.Implemented SwiftUI and UIKit components with MVVM, enhancing UI/UX consistency and reducing UI bugs by 25%.",
       skills: [
         "SwiftUI",
         "IOS Development",
